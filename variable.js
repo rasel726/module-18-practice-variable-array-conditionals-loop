@@ -1,5 +1,7 @@
 /**
+ * ---------------
  * VARIABLE
+ * ---------------
  * 1. What is JavaScript?
  * 2. How does Javascript works?
  * 3. What is Variable?
